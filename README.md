@@ -5,11 +5,14 @@ DevOps Engineer in Training | Building reliable cloud infrastructure & automatio
 
 Tech Stack
 
+
 Proficient:
 Docker | Jenkins | Git | Linux | Bash | Nginx | AWS basics
 
+
 Learning:
 Kubernetes | Terraform | Ansible | Prometheus | Grafana | Advanced cloud (AWS/Azure)
+
 
  Projects
 
@@ -22,6 +25,7 @@ Cloud deployment workflows
 Public projects coming soon — currently in private repos.
 
 
+ 
  Currently
 
 Building infrastructure automation projects
@@ -33,6 +37,7 @@ Learning Kubernetes fundamentals
 Open to DevOps internship opportunities
 
 
+ 
  Contact
 
 LinkedIn: Oreoluwa Rebecca Olusinde
